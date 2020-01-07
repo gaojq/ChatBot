@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/item1"
+        android:title="BruteForce" />
+    <item android:id="@+id/item2"
+        android:title="MySql" />
+    <item android:id="@+id/item3"
+        android:title="Lucene" />
+    <item android:id="@+id/item4"
+        android:title="MongoDB" />
+    <item android:id="@+id/item5"
+        android:title="History..." />
+    <item android:title="Logout"
+        android:id="@+id/logout"/>
+</menu>
